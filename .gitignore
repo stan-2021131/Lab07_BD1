@@ -1,0 +1,27 @@
+# Variables locales
+.env
+
+# Compose local
+docker-compose.yml
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Archivos temporales
+tmp/
+temp/
+
+# PostgreSQL
+postgresql-data/
+
+# Docker
+*.pid
