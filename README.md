@@ -63,6 +63,14 @@ docker compose version
 
 ---
 
+## Informe
+El informe de los indicadores realizados para el laboratorio se encuentran en `./documentation/Laboratorio 7.pdf`. En él se detalla:
+1. Nombre del indicador. 
+2. Qué representa en términos de negocio. 
+3. Por qué es importante para el área. 
+4. Qué tipo de visualización se usó y por qué es la más adecuada. 
+5. La consulta SQL completa usada para generarlo en Metabase.
+
 ## Configuración inicial
 
 ### 1. Crear archivo `.env`
