@@ -1,5 +1,12 @@
 # Lab 7 - Visualización de Datos
 
+## Integrantes
+* Josué Hernández Gonzales – 24770
+* Jackelyn Nicolle Girón Villacinda – 24737
+* Juan Daniel Orodoñez Sierra – 24979
+* Sergio Estuardo Tan Coromac - 24759
+
+
 ## Descripción
 
 Este proyecto corresponde al Laboratorio 7 del curso CC3088 - Bases de Datos.
@@ -16,7 +23,8 @@ Todo el entorno debe levantarse únicamente ejecutando:
 ```bash
 docker compose up
 ```
-
+## Video explicativo 
+https://youtu.be/oIaM343QN6c 
 ---
 
 ## Estructura del proyecto
@@ -226,5 +234,3 @@ docker compose up
 * La carpeta `metabase-data/` debe mantenerse en el repositorio para conservar los dashboards.
 
 ---
-
-## Integrantes
